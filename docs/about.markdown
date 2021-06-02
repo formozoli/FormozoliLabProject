@@ -4,15 +4,17 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+# What do we do?
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+- Transdisciplinary research (Got curious? Check 
+[here](https://www.arj.no/2012/03/12/disciplinarities-2/) and 
+[here](http://balance-unbalance2017.org/events/transdisciplinary-research-why-is-it-still-so-rare-and-why-should-we-care/)!)
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+- Meta-science research and development of alternative forms of scientific organizations
 
+- Maximization of distribution of knowledge, scientific methods, and creativity
 
-[jekyll-organization]: https://github.com/jekyll
+# What are our goals?
+
+We aim to create a horizontally transferable lab that could be replicated by anyone and anywhere
+
