@@ -4,6 +4,10 @@ title: About
 permalink: /about/
 ---
 
+# Who are we?
+
+We are a place where ideas shape ideas, where there is no boundary between disciplines and methods
+
 # What do we do?
 
 - Transdisciplinary research (Got curious? Check 
