@@ -20,4 +20,4 @@ If you want to know who we are (like, the real people behind the project), check
 
 [Sara Cerioli](https://www.facebook.com/sara.cerioli/) 
 
-[Andrey Formozov](www.linkedin.com/in/andrey-formozov-a9ab28156)
+[Andrey Formozov](https://www.linkedin.com/in/andrey-formozov-a9ab28156)
