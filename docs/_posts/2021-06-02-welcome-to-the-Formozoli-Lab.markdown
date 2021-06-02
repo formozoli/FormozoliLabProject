@@ -18,6 +18,6 @@ print_hi('Tom')
 
 If you want to know who we are (like, the real people behind the project), check our LinkedIn profiles:
 
-[Sara Cerioli](https://www.facebook.com/sara.cerioli/) 
+[Sara Cerioli](https://www.linkedin.com/in/sara-cerioli-0aa599177/) 
 
 [Andrey Formozov](https://www.linkedin.com/in/andrey-formozov-a9ab28156)
